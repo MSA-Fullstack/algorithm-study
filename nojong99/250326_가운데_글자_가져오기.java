@@ -9,10 +9,5 @@ class Solution {
 
 		return answer;
 	}
-
-	public static void main(String[] args) {
-		String s = "qwer";
-		System.out.println(solution(s));
-	}
 }
 
