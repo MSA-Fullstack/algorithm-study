@@ -3,6 +3,7 @@ import java.util.*;
 public class Solution {
     public int[] solution(int []arr) {
         int[] answer = {};
+<<<<<<< HEAD
         int temp = arr[0];
         int cnt =0;
         for(int i =1;i<arr.length;i++){
@@ -20,10 +21,28 @@ public class Solution {
             if(arr[i]!=-1){
                 answer[idx++]=arr[i];
             }
+=======
+        Stack<Integer> stack = new Stack<>();
+        stack.push(arr[0]);
+        
+        int num = arr[0];
+        for(int i = 1;i<arr.length;i++){
+            if(num != arr[i]){
+                stack.push(arr[i]);
+                num = arr[i];
+            }
+        }
+        answer = new int[stack.size()];
+        for(int i = 0;i<answer.length;i++){
+            answer[answer.length-i-1]=stack.pop();
+>>>>>>> e99d1b93cb04178b3df2d21f0bb77d544382f2dc
         }
         return answer;
     }
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> e99d1b93cb04178b3df2d21f0bb77d544382f2dc
