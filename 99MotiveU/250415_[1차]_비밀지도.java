@@ -4,7 +4,7 @@ class Solution {
 		answer = new String[n]; 
         
 		for(int i = 0; i < n; i++){
-			String binnum = Integer.toBinaryString(arr[i] | arr2[i]);
+			String binnum = Integer.toBinaryString(arr1[i] | arr2[i]);
             
 			while(binnum.length() < n){
 				binnum = "0" + binary;
