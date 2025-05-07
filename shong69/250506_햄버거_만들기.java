@@ -1,22 +1,26 @@
 import java.util.*;
 class Solution {
-    public String solution(String[] participant, String[] completion) {
-        String answer = "";
-
-        Map<String,Integer> map = new HashMap<>();
-        for(String s:participant){
-            if(!map.containsKey(s)) map.put(s,1);
-            else map.put(s,map.get(s)+1);
-        }
+    public int solution(int[] ingredient) {
+        Deque<Integer> que = new ArrayDeque<>();
+        int answer = 0;
         
-        for(String s:completion){
-            if(map.get(s)>1){
-                map.put(s,map.get(s)-1);
-            }else{
-                map.remove(s);
+        for(Integer i:ingredient){
+            que.push(i);
+            if(que.size()>=4&&que.peek()==1){
+                int a = que.pop();
+                int b = que.pop();
+                int c = que.pop();
+                int d = que.pop();
+                if(b==3&&c==2&&d==1){
+                    answer++;
+                }else{
+                    que.push(d);
+                    que.push(c);
+                    que.push(b);
+                    que.push(a);
+                }
             }
         }
-        answer = map.keySet().iterator().next();
         return answer;
     }
 }

@@ -1,22 +1,41 @@
 import java.util.*;
 class Solution {
-    public String solution(String[] participant, String[] completion) {
-        String answer = "";
-
-        Map<String,Integer> map = new HashMap<>();
-        for(String s:participant){
-            if(!map.containsKey(s)) map.put(s,1);
-            else map.put(s,map.get(s)+1);
+    public int solution(int n, int[] lost, int[] reserve) {
+        List<Integer> list = new ArrayList<>();
+        int answer = 0;
+        int cnt = lost.length;
+        for(Integer i:reserve) {
+            list.add(i);
         }
-        
-        for(String s:completion){
-            if(map.get(s)>1){
-                map.put(s,map.get(s)-1);
-            }else{
-                map.remove(s);
+        Arrays.sort(lost);
+        for(int i=0;i<lost.length;i++){
+            if(list.contains(lost[i])){
+                list.remove(Integer.valueOf(lost[i]));
+                cnt--;
+                lost[i]=0;
             }
         }
-        answer = map.keySet().iterator().next();
+        
+        for(Integer i:lost){
+            if(i==0){
+                continue;
+            }
+            if(i==1){
+                if(list.contains(2)){
+                    list.remove(Integer.valueOf(2));
+                    cnt--;
+                }
+            }else{                
+                if(list.contains(i-1)){
+                    list.remove(Integer.valueOf(i-1));
+                    cnt--;
+                }else if(list.contains(i+1)){
+                    list.remove(Integer.valueOf(i+1));
+                    cnt--;
+                }
+            }
+        }
+        answer = n-cnt;
         return answer;
     }
 }
