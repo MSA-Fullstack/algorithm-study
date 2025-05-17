@@ -31,42 +31,47 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">Week9</td>
+      <td rowspan="7">Week10</td>
     </tr>
     <tr>
-      <td>25.05.12</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/161990">바탕화면 정리</a></td>
+      <td>25.05.19</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">신고 결과 받기</a></td>
       <td style="color:#19BAFF;">Lv. 1</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.05.13</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150370">개인정보 수집 유효기간</a></td>
+      <td>25.05.20</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/340213">[PCCP 기출문제] 1번 / 동영상 재생기</a></td>
       <td style="color:#19BAFF;">Lv. 1</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.05.14</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/388351">유연근무제</a></td>
+      <td>25.05.21</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389478">택배 상자 꺼내기</a></td>
       <td style="color:#19BAFF;">Lv. 1</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.05.15</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/178871">달리기 경주</a></td>
+      <td>25.05.22</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a></td>
       <td style="color:#19BAFF;">Lv. 1</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.05.16</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928">공원 산책</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
+      <td>25.05.23</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">최댓값과 최솟값</a> <br/>
+	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> <br/>
+          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a></td>
+      <td style="color:#19BAFF;">Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.05.17</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/340198">[PCCE 기출문제] 10번 / 공원</a> <br/> <a href="https://school.programmers.co.kr/learn/courses/30/lessons/250137">[PCCP 기출문제] 1번 / 붕대 감기</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
+      <td>25.05.24</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a> <br/>
+	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> <br/>
+      	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924">숫자의 표현</a> <br/>
+      	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911">다음 큰 숫자</a></td>
+      <td style="color:#19BAFF;">Lv. 2</td>
       <td></td>
     </tr>
   </tbody>
