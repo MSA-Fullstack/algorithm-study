@@ -31,48 +31,12 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">Week10</td>
+      <td>Week11</td>
+      <td colspan="4" align="center">프로젝트 기간</td>
     </tr>
     <tr>
-      <td>25.05.19</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">신고 결과 받기</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.05.20</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/340213">[PCCP 기출문제] 1번 / 동영상 재생기</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.05.21</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389478">택배 상자 꺼내기</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.05.22</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a></td>
-      <td style="color:#19BAFF;">Lv. 1</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.05.23</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">최댓값과 최솟값</a> <br/>
-	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> <br/>
-          <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a></td>
-      <td style="color:#19BAFF;">Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.05.24</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a> <br/>
-	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> <br/>
-      	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924">숫자의 표현</a> <br/>
-      	  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911">다음 큰 숫자</a></td>
-      <td style="color:#19BAFF;">Lv. 2</td>
-      <td></td>
+      <td>Week12</td>
+      <td colspan="4" align="center">프로젝트 기간</td>
     </tr>
   </tbody>
 </table>
