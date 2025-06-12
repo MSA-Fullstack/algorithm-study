@@ -31,12 +31,43 @@
   </thead>
   <tbody>
     <tr>
-      <td>Week11</td>
-      <td colspan="4" align="center">프로젝트 기간</td>
+      <td rowspan="7">Week13</td>
     </tr>
     <tr>
-      <td>Week12</td>
-      <td colspan="4" align="center">프로젝트 기간</td>
+      <td>25.06.09</td>
+      <td>프로젝트</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.10</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.11</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945">피보나치 수</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.12</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.13</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간 이동</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.14</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a></td>
+      <td>Lv. 2</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
