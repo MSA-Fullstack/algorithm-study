@@ -17,6 +17,61 @@
 	</tr>
 </table>
 
+## 이번 주 문제
+
+<table>
+  <thead>
+    <tr>
+      <th>주차</th>
+      <th>날짜</th>
+      <th>문제 이름</th>
+      <th>난이도</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">Week13</td>
+    </tr>
+    <tr>
+      <td>25.06.09</td>
+      <td>프로젝트</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.10</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.11</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945">피보나치 수</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.12</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.13</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간 이동</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.14</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 스터디 멤버
 
 <table>
@@ -52,10 +107,10 @@
 
 ## commit 규칙
 ```
-태그: 날짜 문제수
+태그: 깃헙아이디 날짜 문제수
 ```
 
-Ex. `feat: 250319 3문제`
+Ex. `feat: shong69 250319 3문제`
 
 - 파일명을 작성할 때 확장자명은 생략한다.
 
@@ -71,17 +126,17 @@ Ex. `feat: 250319 3문제`
 
 ## Pull Request 규칙
 ```
-태그: 날짜 문제수
+태그: 깃헙아이디 날짜 문제수
 ```
 
-Ex. `feat: 250319 3문제`
+Ex. `feat: shong69 250319 3문제`
 
 - Pull Request 내용은 자유 양식으로 진행한다. (단, 장난스러운 말투, 비속어 등은 금지)
 
 ## Merge 규칙
 - Merge를 진행할 때의 이름은 다음과 같이 진행한다:
 ```
-태그: 날짜 문제수 (#번호)
+태그: 깃헙아이디 날짜 문제수 (#번호)
 ```
-Ex. `feat: 250319 3문제 (#1)`
+Ex. `feat: shong69 250319 3문제 (#1)`
 
