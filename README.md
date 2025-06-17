@@ -31,41 +31,41 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">Week13</td>
+      <td rowspan="7">Week14</td>
     </tr>
     <tr>
-      <td>25.06.09</td>
-      <td>프로젝트</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.06.10</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a></td>
+      <td>25.06.16</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.11</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945">피보나치 수</a></td>
+      <td>25.06.17</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914">멀리 뛰기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.12</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
+      <td>25.06.18</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.13</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간 이동</a></td>
+      <td>25.06.19</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.14</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a></td>
+      <td>25.06.20</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</a></td>
+      <td>Lv. 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25.06.21</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>

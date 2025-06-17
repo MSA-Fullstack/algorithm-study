@@ -1,0 +1,5 @@
+# 커밋 관련 설정 파일 무시
+.cz-config.js
+package.json
+package-lock.json
+node_modules/
