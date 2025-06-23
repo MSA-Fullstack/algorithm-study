@@ -31,41 +31,41 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">Week14</td>
+      <td rowspan="7">Week15</td>
     </tr>
     <tr>
-      <td>25.06.16</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">귤 고르기</a></td>
+      <td>25.06.23</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">할인 행사</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.17</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914">멀리 뛰기</a></td>
+      <td>25.06.24</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.18</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a></td>
+      <td>25.06.25</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.19</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a></td>
+      <td>25.06.26</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12949">행렬의 곱셈</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.20</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</a></td>
+      <td>25.06.27</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.21</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a></td>
+      <td>25.06.28</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
