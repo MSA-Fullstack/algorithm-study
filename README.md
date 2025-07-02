@@ -31,41 +31,23 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">Week15</td>
+      <td rowspan="4">Week16</td>
     </tr>
     <tr>
-      <td>25.06.23</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">할인 행사</a></td>
+      <td>25.06.30</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.24</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a></td>
+      <td>25.07.02</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.06.25</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a></td>
-      <td>Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.06.26</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12949">행렬의 곱셈</a></td>
-      <td>Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.06.27</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a></td>
-      <td>Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.06.28</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td>
+      <td>25.07.04</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">[1차] 캐시</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
