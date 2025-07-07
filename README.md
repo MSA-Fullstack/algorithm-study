@@ -31,23 +31,23 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Week16</td>
+      <td rowspan="4">Week17</td>
     </tr>
     <tr>
-      <td>25.06.30</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능개발</a></td>
+      <td>25.07.07</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.07.02</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a></td>
+      <td>25.07.09</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.07.04</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">[1차] 캐시</a></td>
+      <td>25.07.11</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
