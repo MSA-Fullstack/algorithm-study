@@ -31,23 +31,17 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Week17</td>
+      <td rowspan="3">Week18</td>
     </tr>
     <tr>
-      <td>25.07.07</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">튜플</a></td>
+      <td>25.07.14</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
     <tr>
-      <td>25.07.09</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
-      <td>Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.07.11</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a></td>
+      <td>25.07.19</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">게임 맵 최단거리</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
@@ -76,7 +70,9 @@
 </table>
 
 ## 스터디 규칙
-- 월 ~ 토요일마다 오전 10시 전까지 Pull Request를 진행한다.
+- <del>월 ~ 토요일마다 오전 10시 전까지 Pull Request를 진행한다.</del>
+- 매주 주말에 한 문제씩 문제를 풀이한다.
+- 월요일 오전 9시 30분까지 Pull Request를 진행한다.
 - Pull Request 진행 시, Merge를 진행한다.
 - 코드리뷰는 장난식으로 하지 않는다. (비속어, 반말 금지)
 
