@@ -31,17 +31,11 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Week18</td>
+      <td rowspan="2">Week19</td>
     </tr>
     <tr>
-      <td>25.07.14</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/132265">롤케이크 자르기</a></td>
-      <td>Lv. 2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>25.07.19</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">게임 맵 최단거리</a></td>
+      <td>25.07.26</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
