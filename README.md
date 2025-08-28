@@ -31,11 +31,11 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Week19</td>
+      <td rowspan="2">Week20</td>
     </tr>
     <tr>
-      <td>25.07.26</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
+      <td>25.08.25</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">[1차] 뉴스 클러스터링</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
@@ -46,26 +46,36 @@
 
 <table>
 	<tr>
-		<td align="center"><a href="https://github.com/99MotiveU" /><img src="https://avatars.githubusercontent.com/99MotiveU" width="130px;" alt="Dong Ki's Profile"/></td>
-		<td align="center"><a href="https://github.com/nojong99" /><img src="https://avatars.githubusercontent.com/nojong99" width="130px;" alt="Jong Hyun's Profile"/></td>
 		<td align="center"><a href="https://github.com/minho00123" /><img src="https://avatars.githubusercontent.com/minho00123" width="130px;" alt="Min Ho's Profile"/></td>
+		<td align="center"><a href="https://github.com/99MotiveU" /><img src="https://avatars.githubusercontent.com/99MotiveU" width="130px;" alt="Dong Ki's Profile"/></td>
 		<td align="center"><a href="https://github.com/hwa3845" /><img src="https://avatars.githubusercontent.com/hwa3845" width="130px;" alt="Young Hwa's Profile"/></td>
-		<td align="center"><a href="https://github.com/shong69" /><img src="https://avatars.githubusercontent.com/shong69" width="130px;" alt="So Young's Profile"/></td>
-		<td align="center"><a href="https://github.com/HBinAhn" /><img src="https://avatars.githubusercontent.com/HBinAhn" width="130px;" alt="Hye Bin's Profile"/></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/99MotiveU" /><b>99MotiveU</b></td>
-		<td align="center"><a href="https://github.com/nojong99" /><b>nojong99</b></td>
 		<td align="center"><a href="https://github.com/minho00123" /><b>minho00123</b></td>
+		<td align="center"><a href="https://github.com/99MotiveU" /><b>99MotiveU</b></td>
 		<td align="center"><a href="https://github.com/hwa3845" /><b>hwa3845</b></td>
-		<td align="center"><a href="https://github.com/shong69" /><b>shong69</b></td>
-		<td align="center"><a href="https://github.com/HBinAhn" /><b>HBinAhn</b></td>
 	</tr>
 </table>
 
+<details>
+	<summary>이전 스터디 멤버</summary>
+	<table>
+		<tr>
+			<td align="center"><a href="https://github.com/nojong99" /><img src="https://avatars.githubusercontent.com/nojong99" width="130px;" alt="Jong Hyun's Profile"/></td>
+			<td align="center"><a href="https://github.com/shong69" /><img src="https://avatars.githubusercontent.com/shong69" width="130px;" alt="So Young's Profile"/></td>
+			<td align="center"><a href="https://github.com/HBinAhn" /><img src="https://avatars.githubusercontent.com/HBinAhn" width="130px;" alt="Hye Bin's Profile"/></td>
+		</tr>
+		<tr>
+			<td align="center"><a href="https://github.com/nojong99" /><b>nojong99</b></td>
+			<td align="center"><a href="https://github.com/shong69" /><b>shong69</b></td>
+			<td align="center"><a href="https://github.com/HBinAhn" /><b>HBinAhn</b></td>
+		</tr>
+	</table>
+</details>
+
 ## 스터디 규칙
 - <del>월 ~ 토요일마다 오전 10시 전까지 Pull Request를 진행한다.</del>
-- 매주 주말에 한 문제씩 문제를 풀이한다.
+- 매주 한 문제씩 문제를 풀이한다.
 - 월요일 오전 9시 30분까지 Pull Request를 진행한다.
 - Pull Request 진행 시, Merge를 진행한다.
 - 코드리뷰는 장난식으로 하지 않는다. (비속어, 반말 금지)
