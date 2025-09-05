@@ -31,11 +31,11 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Week20</td>
+      <td rowspan="2">Week21</td>
     </tr>
     <tr>
-      <td>25.08.25</td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">[1차] 뉴스 클러스터링</a></td>
+      <td>25.09.01</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음사전</a></td>
       <td>Lv. 2</td>
       <td></td>
     </tr>
