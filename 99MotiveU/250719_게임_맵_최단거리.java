@@ -12,7 +12,7 @@ class Solution {
         int[] dy = {0, 0, 1, -1};
 
         Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{0, 0, 1}); // (x, y, 거리)
+        q.add(new int[]{0, 0, 1});
         visited[0][0] = true;
 
         while (!q.isEmpty()) {
